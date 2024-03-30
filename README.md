@@ -2,11 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Vulnerability Assessment](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2> Certifications</h2>
+<h2>📄 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
